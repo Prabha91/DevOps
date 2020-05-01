@@ -1,3 +1,5 @@
+#!/usr/local/bin/python3.8
+
 # Program make a simple calculator
 
 # This function adds two numbers
