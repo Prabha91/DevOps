@@ -3,3 +3,5 @@ crontab -e
 
 # Executing the cron job everyday at 1.00 AM server time
 0 1 * * * rsync -avze ssh /home/user/directory/ user@HOST.B:home/user/directory
+
+# Save the file
